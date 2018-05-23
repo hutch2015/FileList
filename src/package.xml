@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>FileListController</members>
+        <members>FileListControllerTest</members>
+        <members>FileListDesignController</members>
+        <members>ReusableLookupController</members>
+        <members>ReusableLookupControllerTest</members>
+        <members>SelectItem</members>
+        <members>SelectItemTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>FileList</members>
+        <members>FileListView</members>
+        <members>SelectChange</members>
+        <members>reUsableMultiSelectLookup</members>
+        <members>reUsableMultiSelectLookupResult</members>
+        <members>selectedsObjectRecordsEvent</members>
+        <members>uiSelect</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>42.0</version>
+</Package>
